@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+    padding: 0%;
+    margin: 0%;
+    text-shadow: 1px 1px 2px pink;
+}
+
+h1{
+    text-align: center;
+    padding: 1%;
+    text-shadow: 1px 1px 2px pink;
+}
+h2{
+    text-align: center;
+}
+.preview{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+}
+.model-img{
+width: 50%;
+}
+.pwt{
+    font-size: small;
+    display: block;
+    margin-left: 5%;
+}
+
